@@ -75,7 +75,7 @@ flowchart TD
 - [x] Usa apenas dados fornecidos do contexto
 - [x] Não recomenda investimentos específicos
 - [x] Quando não sabe algo, admite e redireciona
-- [x] Foca apenas em instruir, não em aconselhar investimentos
+- [x] Foca apenas em explicar, não em aconselhar investimentos
 
 ### Limitações Declaradas
 > O que o agente NÃO faz?
