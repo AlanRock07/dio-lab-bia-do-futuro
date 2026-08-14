@@ -164,15 +164,15 @@ Dados do Cliente:
 - Nome: João Silva
 - Perfil: Moderado
 - Objetivo: Construir reserva de emergência
-- Saldo disponível: R$ 5.000 (meta: R$ 10.000)
+- Saldo disponível: R$ 10.000 (meta: R$ 15.000)
 
 Resumo de Gastos:
-- Aluguel: R$ 1,150.00
-- Alimentação: R$ 679.00
-- Transporte: R$ 270.00
-- Saúde: R$ 293.00
-- Lazer: 127.00
-- Total de saídas: R$ 2,519.00
+- Moradia: R$ 1380.00
+- Alimentação: R$ 570.00
+- Transporte: R$ 295.00
+- Saúde: R$ 188.00
+- Lazer: 55.90
+- Total de saídas: R$ 2488.90
 
 Produtos disponíveis:
 - Tesouro Selic (baixo risco)
