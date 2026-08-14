@@ -24,6 +24,14 @@
     "indicado_para": "Quem pode esperar 90 dias (isento de IR)"
   },
   {
+    "nome": "Fundo Imobiliário",
+    "categoria": "fundo",
+    "risco": "medio",
+    "rentabilidade": "Dividend Yield (DY) gira em média 8% a 12% ao ano",
+    "aporte_minimo": 100.00,
+    "indicado_para": "Perfil moderado que busca diversificação e renda recorrente mensal"
+  },
+  {
     "nome": "Fundo Multimercado",
     "categoria": "fundo",
     "risco": "medio",
