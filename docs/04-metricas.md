@@ -42,7 +42,7 @@ Crie testes simples para validar seu agente:
 - **Resultado:** [X] Correto  [ ] Incorreto
 
 ### Teste 4: Informação inexistente
-- **Pergunta:** "Quanto rende o produto XYZ?"
+- **Pergunta:** "Quanto rende o produto BBDC3 na Bovespa?"
 - **Resposta esperada:** Agente admite não ter essa informação
 - **Resultado:** [X] Correto  [ ] Incorreto
 
