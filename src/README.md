@@ -14,11 +14,8 @@ src/
 
 ## Exemplo de requirements.txt
 
-```
-streamlit
-openai
-python-dotenv
-```
+Todo o código-fonte está no arquivo `app.py`.
+
 
 ## Como Rodar
 
